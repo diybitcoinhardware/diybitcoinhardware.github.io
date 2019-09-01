@@ -72,4 +72,5 @@ TBD - plz send us the links
 
 TBD
 
+- [Ptarmigan](https://github.com/nayutaco/ptarmigan) - Lightning node implementation for embedded systems
 - [Raspiblitz](https://github.com/rootzoll/raspiblitz) - Full lightning & bitcoin node on Raspberry Pi
