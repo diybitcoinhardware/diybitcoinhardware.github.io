@@ -4,6 +4,14 @@ On this website you can find links to interesting DIY bitcoin and lightning-rela
 
 If you want your project to be inluded on the website please open a pull request [on github](https://github.com/diybitcoinhardware/diybitcoinhardware.github.io)
 
+# Libraries
+
+- [trezor-crypto](https://github.com/trezor/trezor-firmware/tree/master/crypto) - Trezor crypto library
+- [mbed-tls](https://github.com/ARMmbed/mbedtls) - general purpose crypto library that includes elliptic curve crypto, hash functions and other stuff necessary for Bitcoin wallet, but doesn't have any bitcoin-specific things (like base58 encoding etc)
+- [micro-bitcoin](https://github.com/micro-bitcoin/uBitcoin) - C++ bitcoin library compatible with Arduino, Mbed and bare metal
+- [modcryptocurrency](https://github.com/Coldcard/modcryptocurrency) - ColdCard micropython bindings of Trezor crypto library
+- [libwally](https://github.com/ElementsProject/libwally-core/) - C library with wallet primitives by Blockstream (not so easy to run on embedded system)
+
 # Hardware wallets
 
 ## Real hardware wallets
@@ -46,16 +54,22 @@ Here we put links to interesting projects that look abandoned / discontinued, mo
 
 TBD
 
+- [M5StackSats](https://github.com/arcbtc/M5StackSats) - Lightning POS based on M5Stack
+
+# Price checkers
+
+- [ESP32+Epaper](https://github.com/arcbtc/epaper-btc-price-fetcher)
+
+# Vending machines
+
+TBD - plz send us the links
+
+- Candy machine
+- Lightning Scooter
+- Lego Lightning ATM
+
 # Full nodes
 
 TBD
 
-- Raspiblitz etc
-
-# Libraries
-
-- [trezor-crypto](https://github.com/trezor/trezor-firmware/tree/master/crypto) - Trezor crypto library
-- [mbed-tls](https://github.com/ARMmbed/mbedtls) - general purpose crypto library that includes elliptic curve crypto, hash functions and other stuff necessary for Bitcoin wallet, but doesn't have any bitcoin-specific things (like base58 encoding etc)
-- [micro-bitcoin](https://github.com/micro-bitcoin/uBitcoin) - C++ bitcoin library compatible with Arduino, Mbed and bare metal
-- [modcryptocurrency](https://github.com/Coldcard/modcryptocurrency) - ColdCard micropython bindings of Trezor crypto library
-- [libwally](https://github.com/ElementsProject/libwally-core/) - C library with wallet primitives by Blockstream (not so easy to run on embedded system)
+- [Raspiblitz](https://github.com/rootzoll/raspiblitz) - Full lightning & bitcoin node on Raspberry Pi
