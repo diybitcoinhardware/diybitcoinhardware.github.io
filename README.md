@@ -64,6 +64,7 @@ TBD
 
 TBD - plz send us the links
 
+- [Lightning beer tap](https://github.com/puzzle/lightning-beer-tap) and a [video](https://www.youtube.com/watch?v=S0sYInAOZUI)
 - Candy machine
 - Lightning Scooter
 - Lego Lightning ATM
