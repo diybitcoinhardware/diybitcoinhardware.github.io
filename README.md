@@ -37,9 +37,9 @@ DIY hardware wallets are not as secure as real ones, but they can be easily tune
 
 These wallets are still in development, so they may not have all the functionality planned by the authors yet, but it's worth to keep an eye on their progress.
 
-- [Specter](https://github.com/cryptoadvance/specter-diy) (Mbed framework) - DIY airgapped hardware wallet that uses QR codes for communication with the host. Based on STM32F469I-DISCO developer board ([video](https://twitter.com/StepanSnigirev/status/1168923849699876881)).
-- [BitBoy](https://github.com/justinmoon/bitboy) (Micropython) - a hardware wallet based on M5Stack dev board ([video](https://twitter.com/_JustinMoon_/status/1168991333970829314)).
-- [Koopa](https://github.com/arcbtc/koopa) (Arduino) - 15$ watch-only hardware wallet that uses E-Ink display to show your next receiving address. Makes sense to take with you if you plan to receive money to your cold storage while keeping your real hardware wallet safe.
+- [Specter](https://github.com/cryptoadvance/specter-diy) (Mbed framework) - DIY airgapped hardware wallet that uses QR codes for communication with the host. Based on STM32F469I-DISCO developer board ([video](https://twitter.com/StepanSnigirev/status/1168923849699876881)). By [@CryptoAdvance](https://twitter.com/CryptoAdvance)
+- [BitBoy](https://github.com/justinmoon/bitboy) (Micropython) - a hardware wallet based on M5Stack dev board ([video](https://twitter.com/_JustinMoon_/status/1168991333970829314)). By [@JustinMoon](https://twitter.com/_JustinMoon_)
+- [Koopa](https://github.com/arcbtc/koopa) (Arduino) - 15$ watch-only hardware wallet that uses E-Ink display to show your next receiving address. Makes sense to take with you if you plan to receive money to your cold storage while keeping your real hardware wallet safe. By [@BTCSocialist](https://twitter.com/BTCSocialist)
 
 ### Archive
 
@@ -54,19 +54,19 @@ Here we put links to interesting projects that look abandoned / discontinued, mo
 
 TBD
 
-- [M5StackSats](https://github.com/arcbtc/M5StackSats) - Lightning POS based on M5Stack
+- [M5StackSats](https://github.com/arcbtc/M5StackSats) - Lightning POS based on M5Stack by [@BTCSocialist](https://twitter.com/BTCSocialist)
 
 # Price checkers
 
-- [ESP32+Epaper](https://github.com/arcbtc/epaper-btc-price-fetcher)
+- [ESP32+Epaper](https://github.com/arcbtc/epaper-btc-price-fetcher) by [@BTCSocialist](https://twitter.com/BTCSocialist)
 
 # Vending machines
 
 TBD - plz send us the links
 
-- [Lightning beer tap](https://github.com/puzzle/lightning-beer-tap) and a [video](https://www.youtube.com/watch?v=S0sYInAOZUI)
+- [Lightning beer tap](https://github.com/puzzle/lightning-beer-tap) and a [video](https://www.youtube.com/watch?v=S0sYInAOZUI) by [@gugol](https://twitter.com/gugol)
 - Candy machine
-- Lightning Scooter
+- [Lightning Scooter](https://github.com/leblitzdick/lightning-scooter) and [Lightning Bike](https://github.com/leblitzdick/lightning-bike) by [@leblitzdick](https://twitter.com/leblitzdick)
 - Lego Lightning ATM
 
 # Full nodes
@@ -74,4 +74,4 @@ TBD - plz send us the links
 TBD
 
 - [Ptarmigan](https://github.com/nayutaco/ptarmigan) - Lightning node implementation for embedded systems
-- [Raspiblitz](https://github.com/rootzoll/raspiblitz) - Full lightning & bitcoin node on Raspberry Pi
+- [Raspiblitz](https://github.com/rootzoll/raspiblitz) - Full lightning & bitcoin node on Raspberry Pi by [@rootzoll](https://twitter.com/rootzoll)
