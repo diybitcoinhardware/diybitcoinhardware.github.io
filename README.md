@@ -37,8 +37,8 @@ DIY hardware wallets are not as secure as real ones, but they can be easily tune
 
 These wallets are still in development, so they may not have all the functionality planned by the authors yet, but it's worth to keep an eye on their progress.
 
-- [Specter](https://github.com/cryptoadvance/specter-diy) (Mbed framework) - DIY airgapped hardware wallet that uses QR codes for communication with the host. Based on STM32F469I-DISCO developer board.
-- [BitBoy](https://github.com/justinmoon/bitboy) (Micropython) - a hardware wallet based on M5Stack dev board.
+- [Specter](https://github.com/cryptoadvance/specter-diy) (Mbed framework) - DIY airgapped hardware wallet that uses QR codes for communication with the host. Based on STM32F469I-DISCO developer board ([video](https://twitter.com/StepanSnigirev/status/1168923849699876881)).
+- [BitBoy](https://github.com/justinmoon/bitboy) (Micropython) - a hardware wallet based on M5Stack dev board ([video](https://twitter.com/_JustinMoon_/status/1168991333970829314)).
 - [Koopa](https://github.com/arcbtc/koopa) (Arduino) - 15$ watch-only hardware wallet that uses E-Ink display to show your next receiving address. Makes sense to take with you if you plan to receive money to your cold storage while keeping your real hardware wallet safe.
 
 ### Archive
