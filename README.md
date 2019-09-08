@@ -68,6 +68,7 @@ TBD - plz send us the links
 - Candy machine
 - [Lightning Scooter](https://github.com/leblitzdick/lightning-scooter) and [Lightning Bike](https://github.com/leblitzdick/lightning-bike) by [@leblitzdick](https://twitter.com/leblitzdick)
 - Lego Lightning ATM
+- [Fiat -> Lightning ATM](git@github.com:diybitcoinhardware/diybitcoinhardware.github.io.git) by [@21isenough](https://twitter.com/21isenough)
 
 # Full nodes
 
