@@ -2,6 +2,8 @@
 
 On this website you can find links to interesting DIY bitcoin and lightning-related projects. This includes hardware wallets, verification tools, POS terminals, full nodes and other stuff.
 
+[Join our Slack Community](https://join.slack.com/t/diybitcoinhardware/shared_invite/enQtNzQyNTI0MzMxNTIzLWQzNTA4N2UyNjliZTNmZTUxYjRhNDI2NjhmZmFkNDE2ZmIyNzc4ZjFiNmMyYmQ1MTM4YTFiN2RlMTQ1OGRiYWE)
+
 Please help us to fill this website! Open a pull request [on github](https://github.com/diybitcoinhardware/diybitcoinhardware.github.io) with DIY bitcoin or lightning project you find exciting.
 
 # Libraries
