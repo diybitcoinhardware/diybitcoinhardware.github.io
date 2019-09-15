@@ -8,11 +8,18 @@ Please help us to fill this website! Open a pull request [on github](https://git
 
 # Libraries
 
+- [libwally](https://github.com/ElementsProject/libwally-core/) - C library with wallet primitives by Blockstream (not so easy to run on embedded system)
+	- a [version](https://github.com/diybitcoinhardware/libwally-core) that works with Arduino IDE and Mbed out of the box
+- [secp256k1](https://github.com/bitcoin-core/secp256k1/) - Optimized C library for elliptic curve operations on Bitcoin curve, by Bitcoin Core, used everywhere. The standard.
+	- a [version](https://github.com/diybitcoinhardware/secp256k1) that works with Arduino IDE and Mbed out of the box
 - [trezor-crypto](https://github.com/trezor/trezor-firmware/tree/master/crypto) - Trezor crypto library
 - [mbed-tls](https://github.com/ARMmbed/mbedtls) - general purpose crypto library that includes elliptic curve crypto, hash functions and other stuff necessary for Bitcoin wallet, but doesn't have any bitcoin-specific things (like base58 encoding etc)
 - [micro-bitcoin](https://github.com/micro-bitcoin/uBitcoin) - C++ bitcoin library compatible with Arduino, Mbed and bare metal
 - [modcryptocurrency](https://github.com/Coldcard/modcryptocurrency) - ColdCard micropython bindings of Trezor crypto library
-- [libwally](https://github.com/ElementsProject/libwally-core/) - C library with wallet primitives by Blockstream (not so easy to run on embedded system)
+
+# Tutorials
+
+- [libwally and secp256k1 on Arduino and Mbed](./libwally_arduino.md)
 
 # Hardware wallets
 
