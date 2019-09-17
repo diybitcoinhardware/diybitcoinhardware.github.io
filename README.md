@@ -64,6 +64,7 @@ Here we put links to interesting projects that look abandoned / discontinued, mo
 TBD
 
 - [M5StackSats](https://github.com/arcbtc/M5StackSats) - Lightning POS based on M5Stack by [@BTCSocialist](https://twitter.com/BTCSocialist)
+- [lightning-pos](https://github.com/ksedgwic/lightning-pos). Can connect to OpenNode, BTCPay or LND REST interface. Written in Arduino.
 
 # Price checkers
 
