@@ -16,7 +16,7 @@ Please help us to fill this website! Open a pull request [on github](https://git
     - [modtrezorcrypto](https://github.com/trezor/trezor-firmware/tree/master/core/embed/extmod/modtrezorcrypto) - MicroPython bindings
 - [mbed-tls](https://github.com/ARMmbed/mbedtls) - general purpose crypto library that includes elliptic curve crypto, hash functions and other stuff necessary for Bitcoin wallet, but doesn't have any bitcoin-specific things (like base58 encoding etc)
 - [micro-bitcoin](https://github.com/micro-bitcoin/uBitcoin) - C++ bitcoin library compatible with Arduino, Mbed and bare metal
-- [modcryptocurrency](https://github.com/Coldcard/modcryptocurrency) - ColdCard's fork of [trezor-crypto](https://github.com/trezor/trezor-firmware/tree/master/crypto)
+- [modcryptocurrency](https://github.com/Coldcard/modcryptocurrency) - ColdCard's fork of [modtrezorcrypto](https://github.com/trezor/trezor-firmware/tree/master/core/embed/extmod/modtrezorcrypto)
 
 # Tutorials
 
