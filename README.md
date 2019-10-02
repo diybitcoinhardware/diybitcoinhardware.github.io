@@ -21,6 +21,7 @@ Please help us to fill this website! Open a pull request [on github](https://git
 # Tutorials
 
 - [libwally and secp256k1 on Arduino and Mbed](./libwally_arduino.md)
+- [3 tutorials building Trezor's with off-the-shelf parts](https://mcudev.github.io/)
 
 # Hardware wallets
 
