@@ -38,7 +38,7 @@ If you are not scared of soldering you can build any of existing open-source har
 ### ColdCard
 
 - [Firmware](https://github.com/Coldcard/firmware)
-- Hardware design is not available (maybe we didn't find it, send us a link plz)
+- [Hardware (schematic & BOM)](https://github.com/Coldcard/firmware/tree/master/hardware)
 
 ## DIY hardware wallets
 
