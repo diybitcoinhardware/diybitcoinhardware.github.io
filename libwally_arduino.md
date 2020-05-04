@@ -18,11 +18,11 @@ To make it happen we cloned repos of these libraries and slightly tuned them suc
 
 ## Repositories for Arduino and Mbed
 
-- [secp256k1](https://github.com/diybitcoinhardware/secp256k1)
-	- [Arduino example](https://github.com/diybitcoinhardware/secp256k1/blob/master/examples/basic_example/basic_example.ino)
+- [secp256k1](https://github.com/diybitcoinhardware/secp256k1-embedded)
+	- [Arduino example](https://github.com/diybitcoinhardware/secp256k1-embedded/blob/master/examples/basic_example/basic_example.ino)
 	- [Mbed project](https://os.mbed.com/users/diybitcoinhardware/code/secp256k1_example/)
-- [libwally](https://github.com/diybitcoinhardware/libwally-core)
-	- [Arduino example](https://github.com/diybitcoinhardware/libwally-core/blob/master/examples/basic_example/basic_example.ino)
+- [libwally](https://github.com/diybitcoinhardware/libwally-embedded)
+	- [Arduino example](https://github.com/diybitcoinhardware/libwally-embedded/blob/master/examples/wally_example/wally_example.ino)
 	- [Mbed project](https://os.mbed.com/users/diybitcoinhardware/code/libwally_example/)
 
 Have fun, and let us know if it does or doesn't work :)
