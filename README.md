@@ -82,6 +82,7 @@ TBD - plz send us the links
 - [Lightning Scooter](https://github.com/leblitzdick/lightning-scooter) and [Lightning Bike](https://github.com/leblitzdick/lightning-bike) by [@leblitzdick](https://twitter.com/leblitzdick)
 - Lego Lightning ATM
 - [Fiat -> Lightning ATM](https://github.com/21isenough/LightningATM) by [@21isenough](https://twitter.com/21isenough)
+- [Bleskomat (Fiat -> Lightning ATM)](https://www.bleskomat.com), [Github](https://github.com/samotari/bleskomat)
 
 # Full nodes
 
