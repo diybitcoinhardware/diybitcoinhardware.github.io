@@ -1,6 +1,6 @@
 # DIY Bitcoin Hardware
 
-On this website you can find links to interesting DIY bitcoin and lightning-related projects. This includes hardware wallets, verification tools, POS terminals, full nodes and other stuff.
+On this website you can find links to interesting DIY bitcoin and lightning-related projects. This includes hardware wallets, verification tools, POS terminals, full nodes, mining rigs and other stuff.
 
 Please help us to fill this website! Open a pull request [on github](https://github.com/diybitcoinhardware/diybitcoinhardware.github.io) with DIY bitcoin or lightning project you find exciting.
 
@@ -89,3 +89,7 @@ TBD
 
 - [Ptarmigan](https://github.com/nayutaco/ptarmigan) - Lightning node implementation for embedded systems
 - [Raspiblitz](https://github.com/rootzoll/raspiblitz) - Full lightning & bitcoin node on Raspberry Pi by [@rootzoll](https://twitter.com/rootzoll)
+
+# Mining
+
+- [The bitaxe](https://github.com/skot/bitaxe) - Open source bitcoin mining rig using bitmain BM1387 ASICs by [@skot](https://github.com/skot)
