@@ -51,6 +51,7 @@ These wallets are still in development, so they may not have all the functionali
 - [Koopa](https://github.com/arcbtc/koopa) (Arduino) - 15$ watch-only hardware wallet that uses E-Ink display to show your next receiving address. Makes sense to take with you if you plan to receive money to your cold storage while keeping your real hardware wallet safe. By [@BTCSocialist](https://twitter.com/BTCSocialist)
 - [Bowser](https://github.com/arcbtc/bowser-bitcoin-hardware-wallet/) (Arduino) - M5Stack based hardware wallet hidden under Tetris game by [@BTCSocialist](https://twitter.com/BTCSocialist). [Youtube tutorial](https://www.youtube.com/watch?v=DG1zrlAVdys).
 - [SeedSigner](https://github.com/SeedSigner) (Raspi, python) - DIY offline, airgapped Bitcoin signing device for less than $50. Includes custom support for Specter Desktop, BlueWallet, Sparrow.
+- [Krux](https://selfcustody.github.io/krux) (K210, Micropython) - DIY or plug-and-play solution for off-the-shelf Kendryte K210 devices. An open-source firmware for offline airgapped Bitcoin signing that interacts with coordinator wallets through QR codes, SD cards, and even thermal printers.
 
 ### Archive
 
